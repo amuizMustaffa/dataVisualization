@@ -1,4 +1,4 @@
-var studentJson = [
+[
     {
     matrix_no: 2016706783, 
     name: "Abdul Muiz Bin Mustaffa",
@@ -18,4 +18,4 @@ var studentJson = [
     GPA:[3.53,3.71,3.52,3.84],
     CGPA:[3.53,3.65,3.61,3.76]
     }   
-];
+]
