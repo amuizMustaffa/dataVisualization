@@ -1,0 +1,21 @@
+var studentJson = [
+    {
+    matrix_no: 2016706783, 
+    name: "Abdul Muiz Bin Mustaffa",
+    Gender: "Male",
+    Highest_Certificate: "Degree in Information Technology",
+    Age: 25,
+    GPA:[2.98,3.27,3.74,3.89],
+    CGPA:[2.98,3.14,3.36,3.48]
+    },
+    
+    {
+    matrix_no: 2016098230, 
+    name: "Ahmad Resian Abu Bakar",
+    Gender: "Male",
+    Highest_Certificate: "Degree in Information Technology",
+    Age: 24,
+    GPA:[3.53,3.71,3.52,3.84],
+    CGPA:[3.53,3.65,3.61,3.76]
+    }   
+];
